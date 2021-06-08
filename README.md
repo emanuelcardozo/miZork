@@ -7,3 +7,5 @@ This is a personalized Java version of the classic game, Zork. In this adventure
 * Interact with items to access differents places.
 
 And last but not least, enjoy it.
+
+Note: Practical Work.
